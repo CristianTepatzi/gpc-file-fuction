@@ -148,6 +148,7 @@ También existen APIs adicionales utilizadas internamente por los servicios admi
 Para consultar las APIs habilitadas:
 
 gcloud services list --enabled
+
 7. Configuración de Cloud Storage
 
 Se creó el bucket:
@@ -168,6 +169,7 @@ Uniform bucket-level access.
 Public Access Prevention heredado.
 Soft delete.
 Política de ciclo de vida.
+
 7.1 Política de ciclo de vida
 
 Se configuró una política para eliminar automáticamente los objetos después de:
